@@ -47,10 +47,6 @@ He configurado mi stack con un enfoque sólido en los fundamentos y estoy escala
 ---
 
 ### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BryanCubeles&show_icons=true&bg_color=000000&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=8B0000&hide_border=false" height="160px" alt="Github Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanCubeles&layout=compact&bg_color=000000&title_color=8B0000&text_color=ffffff&icon_color=8B0000&border_color=8B0000&hide_border=false" height="160px" alt="Top Langs" />
 </div>
 
 <br/>
