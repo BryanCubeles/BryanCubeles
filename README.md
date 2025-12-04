@@ -61,12 +61,6 @@ He configurado mi stack con un enfoque sólido en los fundamentos y estoy escala
 
 ---
 
-### ⚡ Datos Adicionales
-
-* 🎯 **Objetivo 2024:** Dominar Kotlin y SQL para desarrollar aplicaciones robustas.
-* 🏋🏻 **Hobby:** El deporte es mi pilar fundamental para mantener la disciplina mental.
-* 📫 **Contacto:** [bryancubeles@gmail.com](mailto:bryancubeles@gmail.com)
-
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=100&section=footer"/>
 </div>
